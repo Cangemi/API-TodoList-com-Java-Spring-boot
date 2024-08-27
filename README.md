@@ -6,7 +6,7 @@ Esta é uma API simples de Todo List construída com Java Spring Boot. A API per
 
 1. **Clone o repositório:**
     ```bash
-    git clone <URL-do-repositorio>
+    git clone <https://github.com/Cangemi/API-TodoList-com-Java-Spring-boot.git>
     ```
 
 2. **Navegue até o diretório do projeto:**
