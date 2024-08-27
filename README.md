@@ -51,7 +51,7 @@ Esta é uma API simples de Todo List construída com Java Spring Boot. A API per
 |--------|------------------|-------------------------------|
 | POST   | `/todos`          | Criar uma nova tarefa.        |
 | GET    | `/todos`          | Listar todas as tarefas.      |
-| PUT    | `/todos`          | Atualizar uma tarefa existente.|
+| PUT    | `/todos/{id}`     | Atualizar uma tarefa existente.|
 | DELETE | `/todos/{id}`     | Deletar uma tarefa pelo ID.   |
 
 
